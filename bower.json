@@ -1,0 +1,22 @@
+{
+  "name": "pam-timeline",
+  "version": "0.0.0",
+  "homepage": "https://github.com/AmericanRedCross/pam-timeline",
+  "authors": [
+    "danbjoseph <danbjoseph@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.3",
+    "bootstrap": "~3.3.4",
+    "jquery": "~1"
+  }
+}
